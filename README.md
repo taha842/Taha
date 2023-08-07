@@ -1,9 +1,9 @@
-# Taha
+# Muhammad Taha
 🌐 Welcome to my GitHub profile! I'm passionate about turning innovative ideas into tangible smart devices that enhance and transform our world. With a keen eye for detail and a dedication to excellence, I specialize in the complete lifecycle of IoT and Embedded Systems development – from inception and prototyping to rigorous testing and full-scale production.
 
 🛠️ Expertise:
 
-🔌 IoT Development: Leveraging my in-depth understanding of various communication protocols (Wi-Fi, Bluetooth, Zigbee, LoRa), I create seamless connections between devices, enabling efficient data exchange and smart automation.
+🔌 IoT Development: Leveraging my in-depth understanding of various communication protocols (Wi-Fi, Bluetooth, Zigbee, LoRa, MQTT, Industrial Communication Protocol), I create seamless connections between devices, enabling efficient data exchange and smart automation.
 
 ⚙️ Embedded Systems: With a strong foundation in microcontroller programming (ARM, AVR, PIC), I craft optimized firmware to breathe life into devices, ensuring they operate flawlessly and efficiently.
 
@@ -21,15 +21,14 @@
 
 📚 Education:
 
-🎓 Master of Science in Electrical Engineering (IoT & Embedded Systems)
-🏫 Prestigious University
+🎓 Master in Engineering Management(Industrial Management)
+🏫 NED University
 
 📢 Let's Connect:
 
 I'm excited to collaborate, share knowledge, and contribute to the vibrant world of IoT and Embedded Systems. Whether you're a fellow developer, a hardware enthusiast, or just curious about the possibilities, feel free to reach out. Let's innovate together!
 
-📧 Email: iotexpert@email.com
-💼 LinkedIn: linkedin.com/in/iotexpert
-🌐 Portfolio: www.iotexpert.dev
+📧 Email: taha_munir842@hotmail.com
+💼 LinkedIn: linkedin.com/in/taha842
 
-"Bringing intelligence to the everyday, one device at a time."
+# "Bringing intelligence to the everyday, one device at a time."
